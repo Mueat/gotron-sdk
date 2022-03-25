@@ -8,7 +8,7 @@ package api
 
 import (
 	context "context"
-	core "github.com/fbsobreira/gotron-sdk/pkg/proto/core"
+	core "github.com/Mueat/gotron-sdk/pkg/proto/core"
 	proto "github.com/golang/protobuf/proto"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	grpc "google.golang.org/grpc"
